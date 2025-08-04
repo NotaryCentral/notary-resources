@@ -1,4 +1,15 @@
-# Notary Handbooks
+# 📚 U.S. State Notary Handbooks (Free PDF Library)
+A one-stop collection of every official *Notary Public* handbook in the United States.  
+Whether you’re preparing for your commission exam, refreshing your knowledge of state-specific laws, or creating training materials, these downloadable PDFs give you the authoritative guidance you need—all in one place.
+
+---
+
+## ⚡ Quick Start
+1. **Browse** the Table of Contents below.  
+2. **Click** a state name to download its handbook instantly.  
+3. **Stay compliant** by bookmarking this repo—handbooks change as statutes evolve.
+
+---
 
 ## Table of Contents
 
@@ -51,3 +62,23 @@
 - [Washington](handbooks/washington-handbook.pdf)
 - [West Virginia](handbooks/west-virginia-handbook.pdf)
 - [General Notary Guide](handbooks/general-handbook.pdf)
+
+## 🤝 Contributing
+Help keep this library current!
+
+1. **Fork** the repo  
+2. **Add or update** a handbook PDF in `handbooks/`  
+3. **Run** `npm run lint:links` to ensure no broken links  
+4. **Open a pull request** with a clear description
+
+*All contributions are reviewed for authenticity and official source attribution.*
+
+---
+
+## 📄 License
+Released under the [MIT License](LICENSE). Handbook PDFs remain the property of their respective state offices.
+
+---
+
+### 🌐  Spread the Word
+If this repo saved you time, **star** ⭐ it, share on your blog, or tweet a shout-out mentioning `#NotaryHandbooks`. Your support helps the notary community stay compliant and informed!
