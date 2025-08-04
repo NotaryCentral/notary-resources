@@ -7,7 +7,8 @@ Whether you’re preparing for your commission exam, refreshing your knowledge o
 ## ⚡ Quick Start
 1. **Browse** the Table of Contents below.  
 2. **Click** a state name to download its handbook instantly.  
-3. **Stay compliant** by bookmarking this repo—handbooks change as statutes evolve.
+3. **Need a step-by-step guide?** [How to Become a Notary](https://www.notarycentral.org/how-to-become-a-notary)
+4. **Stay compliant** by bookmarking this repo—handbooks change as statutes evolve.
 
 ---
 
